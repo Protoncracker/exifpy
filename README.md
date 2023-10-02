@@ -21,7 +21,7 @@ Will be later on added. Project still in pre-alpha.
 We are open for contributions. Feel free to open issues or submit pull requests.
 
 ## License
-This project is licensed under [GPLv3](#LICENSE).
+This project is licensed under the [MIT License](#LICENSE).
 
 ## Get in Touch
 📧 [Email](mailto:tryme.freefall963@passinbox.com)
