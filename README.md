@@ -1,6 +1,6 @@
 # exifpy - Your Intuitive EXIF Tool
 
-![exifpy](https://github.com/Protoncracker/exifpy/exifpy.png)
+![exifpy](https://github.com/Protoncracker/exifpy/blob/main/exifpy.png)
 
 ## Overview
 exifpy is a versatile EXIF management tool built to simplify the complexities of working with EXIF metadata. With its dual-interface functionality, exifpy can be used either as a standalone application or as an importable package, catering to a broad range of user preferences and needs.
