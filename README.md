@@ -23,7 +23,7 @@ Will be later on added. Project still in pre-alpha.
 We are open for contributions. Feel free to open issues or submit pull requests.
 
 ## License
-This project is licensed under the [MIT License with Original Provider Clause](#LICENSE).
+This project is licensed under the [MIT License with Original Provider Clause](https://github.com/Protoncracker/exifpy/blob/main/LICENSE).
 
 ## Get in Touch
 📧 [Email](mailto:tryme.freefall963@passinbox.com)
